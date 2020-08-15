@@ -1,0 +1,24 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonSaldanha/Ramon-I-Saldanha-de-A-e-Silva-Teste-front-end-da-Ponto-Criativo-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonSaldanha/Ramon-I-Saldanha-de-A-e-Silva-Teste-front-end-da-Ponto-Criativo-/issues"
+  },
+  "homepage": "https://github.com/RamonSaldanha/Ramon-I-Saldanha-de-A-e-Silva-Teste-front-end-da-Ponto-Criativo-#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
